@@ -1,0 +1,14 @@
+.first-ele {
+    background-color: black;
+    color: white;
+}
+
+.sec-ele {
+    background-color: yellow;
+    color: black;
+}
+
+.sec-ele, .first-ele {
+    font-size: 28px;
+    font-family: Helvetica, Times New Roman, sans-serif;
+}

@@ -1,0 +1,20 @@
+p {
+    color: black;
+    background-color: rgb(255, 99, 71);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#first-id {
+    color: rgb(8, 8, 252);
+    font-size: 35px;
+}
+
+#second-id {
+    color: rgb(0, 0, 0);
+    background-color: rgb(78, 211, 78);
+    font-size: 24px;
+}
+
+.second-class{
+    font-size: 24px;
+}
